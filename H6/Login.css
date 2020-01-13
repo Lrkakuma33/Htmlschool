@@ -1,16 +1,16 @@
-style>
-form ul {
-    padding:10px;
+
+form ul{
+    padding: 10px;
+
 }
-form ul li{
-    padding:20px;
+li{
+    padding:15px;
     list-style-type: none;
 }
-form ul li input{
+ul li input{
     position: absolute;
     left: 200px;
 }
 
-style>
 
 
