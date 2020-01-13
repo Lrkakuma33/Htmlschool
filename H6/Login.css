@@ -1,9 +1,9 @@
 style>
 form ul {
-    padding:0;
+    padding:10px;
 }
 form ul li{
-    padding:10px;
+    padding:20px;
     list-style-type: none;
 }
 form ul li input{
@@ -11,5 +11,6 @@ form ul li input{
     left: 200px;
 }
 
+style>
 
 
